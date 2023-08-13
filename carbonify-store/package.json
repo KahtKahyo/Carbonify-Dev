@@ -1,5 +1,5 @@
 {
-  "name": "ecommerce-front",
+  "name": "Carbonify-Store",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -19,7 +19,7 @@
     "date-fns": "^2.30.0",
     "eslint": "8.42.0",
     "eslint-config-next": "^13.4.13",
-    "lucide-react": "^0.241.0",
+    "lucide-react": "^0.263.1",
     "next": "^13.4.13",
     "postcss": "8.4.24",
     "query-string": "^8.1.0",
