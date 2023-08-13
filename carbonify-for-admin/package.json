@@ -1,5 +1,5 @@
 {
-  "name": "next13-ecommerce-admin",
+  "name": "Carbonify-for-Admin",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -11,6 +11,8 @@
   },
   "dependencies": {
     "@clerk/nextjs": "^4.21.3",
+    "@cloudinary/react": "^1.11.2",
+    "@cloudinary/url-gen": "^1.11.1",
     "@hookform/resolvers": "^3.1.1",
     "@prisma/client": "^5.1.1",
     "@radix-ui/react-avatar": "^1.0.3",
@@ -38,7 +40,7 @@
     "eslint-config-next": "^13.4.13",
     "lucide-react": "^0.263.1",
     "next": "^13.4.13",
-    "next-cloudinary": "^4.12.0",
+    "next-cloudinary": "^4.18.0",
     "next-themes": "^0.2.1",
     "postcss": "8.4.24",
     "react": "^18.2.0",
